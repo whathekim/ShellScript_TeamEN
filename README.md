@@ -1,8 +1,9 @@
-![shell-script](port-shellscript.gif)
+
 
 # 🔍 Vulnerability-Scanner-ScriptTeamEN  
 📘 **주요정보통신기반시설 기술적 취약점 분석 평가 방법 상세 가이드** 기반  
 💻 기술적 취약점 진단 자동화 쉘스크립트 프로젝트  
+![shell-script](port-shellscript.gif)
 
 ---
 
