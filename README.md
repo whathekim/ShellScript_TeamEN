@@ -1,6 +1,6 @@
 
 
-# 🔍 Vulnerability-Scanner-ScriptTeamEN
+# 🔍 Vulnerability-Scanner-Script TeamEN
 
 ![shell-script](port-shellscript.gif)
 
